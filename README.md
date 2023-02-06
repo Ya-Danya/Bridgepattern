@@ -1,0 +1,2 @@
+# Bridgepattern
+Bridge pattern
